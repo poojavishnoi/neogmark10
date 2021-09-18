@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-size: 1.8rem;
+  text-align: center;
+}
+
+nav{
+  text-align: center;
+  background-color: #B23A48;
+  color: white;
+  padding: 0.5rem;
+
+}
+
+.container{
+  background-color: #2A2B2A;
+  color: white;
+  margin: 2rem 35rem;
+  padding: 2rem;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+input{
+  width: 60%;
+  padding: 1em;
+  border-radius: 10px;
+  margin: 1rem;
+  align-self: center;
+}
+
+th{
+  padding: 0.5rem;
+}
+
+caption{
+  margin: 1rem;
+  font-size: larger;
+}
+
+#btn{
+  padding: 0.5rem;
+  font-size: large;
+  margin: 1rem;
+}
+
