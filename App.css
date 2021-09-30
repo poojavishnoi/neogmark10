@@ -16,7 +16,7 @@ nav{
 .container{
   background-color: #2A2B2A;
   color: white;
-  margin: 2rem 35rem;
+  margin: 2rem 20rem;
   padding: 2rem;
   border-radius: 1rem;
   display: flex;
@@ -45,5 +45,10 @@ caption{
   padding: 0.5rem;
   font-size: large;
   margin: 1rem;
+}
+
+table{
+  margin: 2rem 5rem;
+  padding: 1rem;
 }
 
